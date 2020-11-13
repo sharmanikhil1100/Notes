@@ -15,4 +15,18 @@ After setting up the free-tier AWS account :
         * Setup password policies for all user from dashboard <br/>
         * Optionaly, setup MFA for high security. (Advisable not to be imposed on Root user, as it may lock the access of acc in worst case)<br/>
         * MFA = Password + Device check
+    4. Setting up AWS cli - <br/>
+        * Download aws cli for ubuntu using 3 commands given in the course video. <br/>
+        * You are ready to go. <br/>
+        * Start using aws cli after doing this - [Screenshot here](https://ibb.co/XDFK3tQ) <br/>
+    5. Assign roles to Services - <br/>
+        * Some aws service needs to be performed on your behalf. <br/>
+        * To do so we will assign permissions to aws services using IAM roles. <br/>
+    6. Security Tools - <br/>
+        * 'Access Advisor' shows the services that this user can access and when those services were last accessed. >br/> Review this data to remove unused permissions. <br/>
+    7. IAM best practices - <br/>
+        * Check out the slides (pg 49) <br/>
+    9. Shared Access Responsibility Mode - <br/>
+        * Check out the slides (pg 50) <br/>
+    * Don't miss the summary video to get idea of IAM !!
           
