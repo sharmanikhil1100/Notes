@@ -30,3 +30,11 @@ After setting up the free-tier AWS account :
         * Check out the slides (pg 50) <br/>
     * Don't miss the summary video to get idea of IAM !!
           
+2. EC2 Elasctic Cloud Compute - <br/>
+    1. AWS budget Setup - <br/>
+        * Setup up cost alerts from IAM user accounts. <br/>
+        * Grant access first to the IAM users. <br/>
+        * Check the bills, costs, budgets, etc. from navbar.
+    2. EC2 Instance Examples - <br/>
+        * You have different options to choose for EC2 Instances.
+        * Different Storage, Network, Processing, RAM, etc configurations to choose for you EC2 instance.
